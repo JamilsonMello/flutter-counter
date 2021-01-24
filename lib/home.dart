@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:myapp/app_controller.dart';
 import 'package:myapp/custom_switch.dart';
 
 class Home extends StatefulWidget {
